@@ -27,12 +27,12 @@ body {
 
 span,
 h1 {
-    color: whitesmoke;
+    color: whitesmoke; 
 }
 
 li>a:hover {
     color: white !important;
-    background-color: crimson;
+    background-color: crimson !important;
     border-radius: 0;
 }
 
